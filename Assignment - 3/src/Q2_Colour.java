@@ -1,4 +1,4 @@
-import java.util.*;;
+//import java.util.*;;
 public class Q2_Colour {
     public static void main(String args[])
     {
