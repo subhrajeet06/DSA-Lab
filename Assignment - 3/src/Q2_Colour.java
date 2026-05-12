@@ -2,7 +2,7 @@ import java.util.*;;
 public class Q2_Colour {
     public static void main(String args[])
     {
-        Scanner sc = new Scanner(System.in);
+        //Scanner sc = new Scanner(System.in);
         String arr[] = {"Blue","Black","Red","Green","Yellow"};
         try
         {
