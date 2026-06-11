@@ -46,7 +46,7 @@ class Rectangle extends Shape
 public class Q7_Shape {
     public static void main(String args[])
     {
-        Circle c = new Circle("Red", 5);
+        Circle c = new Circle("Red", 5.0);
         Rectangle r = new Rectangle("Blue", 4, 6);
         c.display();
         r.display();

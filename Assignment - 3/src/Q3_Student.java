@@ -1,7 +1,7 @@
 import java.util.*;
 class MarksOutOfBoundException extends Exception {
-    MarksOutOfBoundException(String message) {
-        super(message);
+    MarksOutOfBoundException(String msg) {
+        super(msg);
     }
 }
 

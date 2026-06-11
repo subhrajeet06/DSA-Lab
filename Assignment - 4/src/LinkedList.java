@@ -228,7 +228,7 @@ public class LinkedList {
             start = start.next;
             System.out.println("Node Deleted.");
             return start;
-        }
+        }            
 
         Node temp = start;
 
